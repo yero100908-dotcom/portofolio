@@ -1,0 +1,13 @@
+# Robots.txt for Portofolio Yero Virdhan Akifan - Siswa SMK RPL & Rootera Plumbing (Jaya & Jawa Group)
+User-agent: *
+Allow: /
+Allow: /rootera-experience.html
+Allow: /img/
+
+# Disallow internal application paths
+Disallow: /bootstrap/
+Disallow: /storage/
+Disallow: /vendor/
+
+# Sitemap location
+Sitemap: http://127.0.0.1:8000/sitemap.xml
